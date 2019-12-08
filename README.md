@@ -1,4 +1,4 @@
-# Application: **Solar Age Calculator**
+# Application: **Code Invaders**
 
 ##### By Noah Horwitz, Celeste Morton, Chris Sanchez & Courtney Schild
 
