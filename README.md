@@ -29,7 +29,7 @@
 
 #### Clone:
 
- 1. To clone the repository, from your terminal or command line enter: "git clone https://github.com/sanchito59/rails_5.2.4.1_appliance_hub.git"
+ 1. To clone the repository, from your terminal or command line enter: "git clone https://github.com/sanchito59/code-invaders.git"
  2. Once the repository finishes downloading you will need to navigate to it in the terminal/command line.
  3. Make sure your system has `NPM` installed.
  5. With your tools installed, and within the folder, run `npm start`. Make sure all processes configure correctly before moving on.
