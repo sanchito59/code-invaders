@@ -4,7 +4,6 @@
 
 #### _First published 2019-12-02_
 
-## Description:
 [Code Invaders](https://nhhor.github.io/code-invaders) was made as part of a team project for students at [Epicodus](http://www.epicodus.com), a vocational school for technology careers, based in Portland, OR. The project is designed to help users practice typing code through an interactive space-themed game. Code Invaders makes use of several tools and technologies, including JavaScript ES6, jQuery, webpack, CSS3, and HTML5. It was developed through a collaborative effort of merging pull requests into the master branch to ensure project integrity.
 
 [Code Invaders](https://nhhor.github.io/code-invaders) is fully deployed and hosted on GitHub Pages.
